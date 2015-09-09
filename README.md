@@ -1,2 +1,4 @@
 # Personal_Website
-My first website
+The website chronicles a trip to Japan in 2013.
+
+
